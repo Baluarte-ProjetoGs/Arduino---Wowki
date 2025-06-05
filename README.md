@@ -22,7 +22,7 @@ Este sistema é simples, barato e fácil de instalar, podendo ser uma ferramenta
 
 
 
-##Clique/Copie o link abaixo para entrar no projeto: 
+Clique/Copie o link abaixo para entrar no projeto: 
 
 https://wokwi.com/projects/432765578911581185
 
@@ -34,11 +34,11 @@ Em sequência edite a distância do sensor para acender os led´s
 > 50 / < 200  = Led AMARELO
 < 50 = Led VERMELHO
 
-##Video Demonstrativo: 
+Video Demonstrativo: 
 
 https://youtu.be/gRo5o3f1OGg?si=fcXG6RMAos5dUV25
 
-##Desenvolvedores: 
+Desenvolvedores: 
 
 Dennis Nieto Generoso RM563671
 
