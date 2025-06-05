@@ -41,9 +41,7 @@ https://youtu.be/gRo5o3f1OGg?si=fcXG6RMAos5dUV25
 Desenvolvedores: 
 
 Dennis Nieto Generoso RM563671
-
 Giovanna Luiza Bento RM563203 
-
 Mayene Moura da Silva RM564624 
 
 
