@@ -34,7 +34,16 @@ Em sequência edite a distância do sensor para acender os led´s
 > 50 / < 200  = Led AMARELO
 < 50 = Led VERMELHO
 
-Video: 
+Video Demonstrativo: 
 
+https://youtu.be/gRo5o3f1OGg?si=fcXG6RMAos5dUV25
+
+Desenvolvedores: 
+
+Dennis Nieto Generoso RM563671
+
+Giovanna Luiza Bento RM563203 
+
+Mayene Moura da Silva RM564624 
 
 
